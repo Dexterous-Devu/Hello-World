@@ -6,7 +6,7 @@ HelloWorld is a simple blockchain application written in JavaScript and Solidity
 
 You can clone this repository.
 ```bash
-git clone 
+git clone https://github.com/Dexterous-Devu/Hello-World.git
 cd Hello-world/
 ```
 
