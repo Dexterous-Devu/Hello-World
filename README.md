@@ -31,12 +31,12 @@ PRIVATE_KEY=1234567890
 
 
 ## Deploying Commands
-- run the below command to deploy the contract to the Ropsten testnet.
+- run this command to deploy the contract to the Ropsten testnet.
 
 ```bash
 npx hardhat run scripts/deploy.js
 ```
-- run the below command to read and write a new message to the smart contract on Ropsten testnet.
+- run this command to read and write a new message to the smart contract on Ropsten testnet.
 ```bash
 npx hardhat run scripts/interact.js
 ```
